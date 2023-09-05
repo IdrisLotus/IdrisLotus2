@@ -1,9 +1,9 @@
 import time
 start_time= time.time()
 def fun():
-	a = 546485
-	b = 3
-	c = a % b
+	a = 54648533
+	b = 48214568
+	c = a * b
 end_time= time.time()
 fun()
 timetaker = end_time - start_time
